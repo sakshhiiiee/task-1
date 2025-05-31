@@ -1,0 +1,7 @@
+
+Nmap scan report for 192.168.31.155
+Host is up (0.0062s latency).
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
